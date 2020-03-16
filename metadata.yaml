@@ -1,0 +1,36 @@
+_repo: Attitude_61564
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kolliker, William A.
+    alias: Kolliker, William Augustin
+    birthdate: 1905
+    deathdate: 1995
+    gutenberg_agent_id: '51453'
+    url: http://www.gutenberg.org/2009/agents/51453
+creator:
+  author:
+    agent_name: Clement, Hal
+    alias: Stubbs, Harry C. (Harry Clement)
+    birthdate: 1922
+    deathdate: 2003
+    gutenberg_agent_id: '46167'
+    url: http://www.gutenberg.org/2009/agents/46167
+    wikipedia: https://en.wikipedia.org/wiki/Hal_Clement
+description: ''
+gutenberg_issued: '2020-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisoners -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- GITenberg
+title: Attitude
+url: http://www.gutenberg.org/ebooks/61564
